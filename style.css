@@ -1,0 +1,21 @@
+.jumbotron img{
+    width: 200px;
+
+}
+.jumbotron{
+    background-color: saddlebrown;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    
+}
+.judul{
+    text-align: center;
+    color: chocolate;
+}
+.judul hr{
+    width: 200xp;
+    border: solid chocolate;
+    color: saddlebrown;
+    min-width: 600xp;
+}
